@@ -1,0 +1,33 @@
+Semana Omnistack 11
+Dia 2
+Crianda a base da aplicação
+
+
++ 00:05:14 - Abrindo VS Code (code .)
++ 00:06:26 - Recurso/Rota
++ 00:07:29 - Métodos HTTP (GET, POST, PUT, DELETE)
++ 00:10:59 - Insomnia
+    - 00:12:36 - Primeiro request
++ 00:13:57 - Tipos de Parâmetros (Query e Route)
++ 00:20:12 - Request Body 
+    - 00:21:54 - use JSON
++ 00:23:08 - Instalando o Nodemon
+    - 00:24:16 - script de start
++ 00:25:50 - Diferença entre banco de dados
++ 00:28:42 - Configurando o bancod de dados
+    - 00:28:42 - Comunicação do banco de dados
+    - 00:29:58 - KNEX.js
++ 00:32:21 - Organizando (Pasta src)
++ 00:34:44 - Configuração do banco
++ 00:35:20 - Entidades do projeto
++ 00:37:17 - Funcionalidades do projeto
++ 00:39:23 - Migrations
+    - 00:40:37 - Migration - Definição de ONGS
+    - 00:46:37 - Migration - Definição de incidents
++ 00:51:16 - Cadastro de ONGS
+    + 00:55:21 - Conexão com o banco de dados
++ 00:59:55 - Listagem de ONGS
++ 01:04:56 - Criando IncidentController
+
+
+
