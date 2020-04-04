@@ -1,0 +1,20 @@
+00:04:19 - Instalando o Expo
+00:06:02 - expo init mobile
+00:06:49 - Executando o projeto
+    00:07:17 - No celular
+    00:08:19 - No Emulador
+    00:09:48 - No Expo Snack
+00:11:39 - Trabalhando com React Native
+00:19:26 - Icone e Splach Screen
+00:21:52 - Configurando a navegação
+    00:23:01 - Pagina Incidents e Details
+    00:24:00 - Routes
+00:31:40 - Construindo a pg de Incidents
+    00:48:41 - Direcionando para detalhes
+00:50:10 - Construindo a pg de Detalhes
+    01:00:24 - Enviando e-mail e Whatsapp
+01:05:54 - Conectando com a API
+01:12:16 - Acertos finais
+    01:12:29 - Currency
+    01:16:00 - Levando dados para Detalhes(outra página) 
+    01:21:04 - PAginação infinita

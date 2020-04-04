@@ -1,0 +1,11 @@
+00:03:45 - Validação
+    - celebrate
+    - JOI
+00:21:14 - Testes
+    - TDD
+        - Procurar sobre TDD no canal da Rocketseat
+    -JEST (25:58)
+        - Unit Test (31:04)
+        - Integration Test (36:00)
+            - CROSS-ENV (37:04)
+            - Supertest (40:45)
