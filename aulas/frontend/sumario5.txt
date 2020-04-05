@@ -9,3 +9,12 @@
         - Integration Test (36:00)
             - CROSS-ENV (37:04)
             - Supertest (40:45)
+00:53:25 - Deploy
+    - heroku para deploy Testes (videos na rocketseat)
+    - digital ocean
+    - netlify (react)
+    - deploy com Expo (video na rocketseat)(58:20)
+00:59:24 - Daqui pra frente
+    - Padrões de código (ESLint, Prettier)
+    - JWT
+    - Styled Components
